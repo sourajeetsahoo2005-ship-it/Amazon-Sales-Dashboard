@@ -1,4 +1,5 @@
 Amazon Sales Dashboard
+
 📌 Project Overview
 
 The Amazon Sales Dashboard is an interactive Power BI report designed to analyze and visualize Amazon sales performance. It provides insights into revenue, orders, product categories, delivery status, payment methods, and customer purchasing trends through dynamic and user-friendly visualizations.
