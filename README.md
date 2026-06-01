@@ -49,6 +49,8 @@ Year
 Product Category
 Order Status
 Country
+
+
 📊 Dashboard Insights
 Electronics category generates the highest sales revenue.
 75% of total orders are successfully delivered.
